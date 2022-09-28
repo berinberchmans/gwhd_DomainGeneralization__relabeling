@@ -1,0 +1,2 @@
+# gwhd_DomainGeneralization__relabeling
+Improving domain generalization by domain exploration and relabeling
