@@ -1,0 +1,48 @@
+name;country;location;development_stage;platform;noofimages;noofwheads
+ETHZ_1;Switzerland;Eschikon;Filling;Spidercam;747;49603
+Rres_1;UK;Rothamsted;Filling-Ripening;Gantry;432;19210
+ULiege-GxABT_1;Belgium;Gembloux;Ripening;Cart;30;1847
+NMBU_1;Norway;NMBU;Filling;Cart;82;7345
+NMBU_2;Norway;NMBU;Ripening;Cart;98;5211
+Arvalis_1;France;Greoux;Post-flowering;Handheld;98;2935
+Arvalis_2;France;Greoux;Filling;Handheld;401;2935
+Arvalis_3;France;Greoux;Filling-Ripening;Handheld;588;21893
+Arvalis_4;France;Greoux;Filling;Handheld;204;4270
+Arvalis_5;France;VLB;Filling;Handheld;448;8180
+Arvalis_6;France;VSC;Filling-Ripening;Handheld;160;8698
+Arvalis_7;France;VLB;Filling-Ripening;Handheld;24;1247
+Arvalis_8;France;VLB;Filling-Ripening;Handheld;20;1062
+Arvalis_9;France;VLB;Ripening;Handheld;32;1894
+Arvalis_10;France;Mons;Filling;Handheld;60;1563
+Arvalis_11;France;VLB;Filling;Handheld;60;2818
+Arvalis_12;France;Greoux;Filling;Handheld;29;1277
+Inrae_1;France;Toulouse;Filling-Ripening;Handheld;176;3634
+Usask_1;Canada;Saskatchewan;Filling-Ripening;Tractor;200;5985
+KSU_1;US;KSU;Post-flowering;Tractor;100;6435
+KSU_2;US;KSU;Post-flowering;Tractor;100;5302
+KSU_3;US;KSU;Filling;Tractor;95;5217
+KSU_4;US;KSU;Ripening;Tractor;60;3285
+Terraref_1;US;Maricopa AZ;Ripening;Gantry;144;3360
+Terraref_2;US;Maricopa AZ;Filling;Gantry;106;1274
+CIMMYT_1;Mexico;Ciudad Obregon;Post-flowering;Cart;69;2843
+CIMMYT_2;Mexico;Ciudad Obregon;Post-flowering;Cart;77;2771
+CIMMYT_3;Mexico;Ciudad Obregon;Post-flowering;Cart;60;1561
+Utokyo_1;Japan;NARO-Tsukuba;Ripening;Cart;538;14185
+Utokyo_2;Japan;NARO-Tsukuba;Ripening;Cart;456;13010
+Utokyo_3;Japan;NARO-Hokkaido;multiple;Handheld;120;3085
+Ukyoto_1;Japan;Kyoto;Post-flowering;Handheld;60;2670
+NAU_1;China;Baima;Post-flowering;Handheld;20;1240
+NAU_2;China;Baima;Post-flowering;Cart;100;4918
+NAU_3;China;Baima;Filling;Cart;100;4596
+UQ_1;Australia;Gatton;Post-flowering;Tractor;22;640
+UQ_2;Australia;Gatton;Post-flowering;Tractor;16;39
+UQ_3;Australia;Gatton;Filling;Tractor;14;297
+UQ_4;Australia;Gatton;Filling;Tractor;30;1039
+UQ_5;Australia;Gatton;Filling-Ripening;Tractor;30;3680
+UQ_6;Australia;Gatton;Filling-Ripening;Tractor;30;1147
+UQ_7;Australia;Gatton;Ripening;Handheld;17;1335
+UQ_8;Australia;McAllister;Ripening;Handheld;41;4835
+UQ_9;Australia;Brookstead;Filling-Ripening;Handheld;33;2886
+UQ_10;Australia;Gatton;Filling-Ripening;Handheld;53;8629
+UQ_11;Australia;Gatton;Post-flowering;Handheld;42;4345
+ARC_1;Sudan;Wad Medani;Filling;Handheld;30;888

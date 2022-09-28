@@ -1,0 +1,7 @@
+# Release notes for GlobalWheat
+
+## v1.1
+Dec 7, 2021: Updated metadata. All images and bounding boxes are the same.
+
+## v1.0
+Jul 11, 2020: First release.
